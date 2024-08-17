@@ -1,0 +1,6 @@
+1. Code wrapping/rewriting with respective usages:
+    * Decorators: Functions
+    * Class Decorators: Classes
+    * Metaclasses: Class hierarchies
+
+*Notes: __slots__ attribute for __new__ vs __init__
